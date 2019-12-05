@@ -1,3 +1,5 @@
+* ```The Art of Readable Code``` by Dustin Boswell and Trevor Foucher
+* ```Clean Code: A Handbook of Agile Software Craftsmanship``` by Robert Martin
 * ```Code Complete (second edition)``` by Steve McConnell
 * ```The Clean Coder``` by Robert Martin
 * ```The Pragmatic Programmer``` by Andy Hunt and Dave Thomas
