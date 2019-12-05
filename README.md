@@ -15,7 +15,7 @@ I've also included the books I would highly recommend for each section on this p
   * ```Working Effectively With Legacy Code``` by Michael Feathers
 * [Software Design](software-design.md) (2)
   * ```Patterns Of Enterprise Application Architecture``` by Martin Fowler
-* **[Software Architecture](software-architecture.md)** (1)
+* [Software Architecture](software-architecture.md) (1)
   * ```Patterns, Principles, and Practices of Domain-Driven Design``` by Scott Millett and Nick Tune
 * [Object Orientation](object-orientation.md)
 
