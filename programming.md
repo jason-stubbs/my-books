@@ -1,8 +1,10 @@
+**Recommended:**
 ```
-Code Complete (second edition) **
+Code Complete (second edition)
 Steve McConnell
 ```
 
+Others:
 ```
 The Clean Coder
 Robert Martin
