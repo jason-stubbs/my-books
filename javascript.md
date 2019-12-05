@@ -1,14 +1,3 @@
-```
-Node.js In Action
-Mike Cantelon, Alex Young
-```
-
-```
-JavaScript: The Definitive Guide
-David Flanagan
-```
-
-```
-ng-book: The Complete Book onAngularJS (1st edition?)
-Ari Lerner
-```
+* ```Node.js In Action``` by Mike Cantelon, Alex Young
+* ```JavaScript: The Definitive Guide``` by David Flanagan
+* ```ng-book: The Complete Book onAngularJS``` by Ari Lerner

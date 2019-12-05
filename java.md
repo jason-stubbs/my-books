@@ -1,5 +1,3 @@
-**Recommended:**
-```
-Java Concurrency in Practice
-Brian Goetz, Joshua Bloch, Joseph Bowbeer, Doug Lea, David Holmes, Tim Peierls
-```
+#### Recommended
+
+* ```Java Concurrency in Practice``` by Brian Goetz et al

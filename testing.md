@@ -1,16 +1,3 @@
-**Recommended:**
-```
-Test-Driven Development
-Kent Beck
-```
-
-```
-Working Effectively With Legacy Code
-Michael Feathers
-```
-
-Others:
-```
-Growing Object-Oriented Software
-Steve Freeman, Nat Pryce
-```
+* ```Test-Driven Development``` by Kent Beck
+* ```Working Effectively With Legacy Code``` by Michael Feathers
+* ```Growing Object-Oriented Software``` by Steve Freeman and Nat Pryce

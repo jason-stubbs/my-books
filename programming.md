@@ -1,26 +1,5 @@
-**Recommended:**
-```
-Code Complete (second edition)
-Steve McConnell
-```
-
-Others:
-```
-The Clean Coder
-Robert Martin
-```
-
-```
-The Pragmatic Programmer
-Andy Hunt, Dave Thomas
-```
-
-```
-Programming Pearls (second edition)
-Jon Bentley
-```
-
-```
-Cracking The Coding Interview
-Gayle McDowell
-```
+* ```Code Complete (second edition)``` by Steve McConnell
+* ```The Clean Coder``` by Robert Martin
+* ```The Pragmatic Programmer``` by Andy Hunt and Dave Thomas
+* ```Programming Pearls (second edition)``` by Jon Bentley
+* ```Cracking The Coding Interview``` by Gayle McDowell

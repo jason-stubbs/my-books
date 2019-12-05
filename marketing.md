@@ -1,4 +1,1 @@
-```
-256 Bloghacks
-Yegor Bugayenko
-```
+* ```256 Bloghacks``` by Yegor Bugayenko

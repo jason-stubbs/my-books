@@ -1,5 +1,1 @@
-**Recommended:**
-```
-Patterns, Principles, and Practices of Domain-Driven Design
-Scott Millett, Nick Tune
-```
+```Patterns, Principles, and Practices of Domain-Driven Design``` by Scott Millett and Nick Tune

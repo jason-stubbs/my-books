@@ -1,21 +1,4 @@
-**Recommended:**
-```
-Rework
-Jason Fried, David Hansson
-```
-
-```
-Rapid Development
-Steve McConnell
-```
-
-Others:
-```
-The Mythical Man Month
-Frederick Brooks
-```
-
-```
-Business Planning: The Key To Success
-Coulthard, Howell & Clarke
-```
+* ```Rework``` by Jason Fried and David Hansson
+* ```Rapid Development``` by Steve McConnell
+* ```The Mythical Man Month``` by Frederick Brooks
+* ```Business Planning: The Key To Success``` by Coulthard, Howell & Clarke

@@ -1,11 +1,2 @@
-**Recommended:**
-```
-Patterns Of Enterprise Application Architecture
-Martin Fowler
-```
-
-Others:
-```
-Enterprise Integration Patterns
-Gregor Hohpe, Bobby Woolf
-```
+* ```Patterns Of Enterprise Application Architecture``` by Martin Fowler
+* ```Enterprise Integration Patterns``` by Gregor Hohpe and Bobby Woolf
