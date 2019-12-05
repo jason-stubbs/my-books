@@ -28,9 +28,10 @@ I've also included the books I would highly recommend for each section on this p
 
 #### Other
 
-* [User Experience](user-experience.md) (3)
-  * ```Inclusive Design Patterns``` by Heydon Pickering
-* [Management](management.md) (4)
+* [Agile](agile.md) (3)
   * ```Rework``` by Jason Fried and David Hansson
   * ```Rapid Development``` by Steve McConnell
+* [User Experience](user-experience.md) (3)
+  * ```Inclusive Design Patterns``` by Heydon Pickering
 * [Marketing](marketing.md) (1)
+* [Business Management](business-management.md) (1)
