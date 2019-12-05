@@ -9,7 +9,7 @@ Working Effectively With Legacy Code
 Michael Feathers
 ```
 
-Other:
+Others:
 ```
 Growing Object-Oriented Software
 Steve Freeman, Nat Pryce
