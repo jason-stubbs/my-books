@@ -28,7 +28,7 @@ I've also included the books I would highly recommend for each section on this p
 
 #### Other
 
-* [Agile](agile.md) (3)
+* [Project Management](project-management.md) (3)
   * ```Rework``` by Jason Fried and David Hansson
   * ```Rapid Development``` by Steve McConnell
 * [User Experience](user-experience.md) (3)
