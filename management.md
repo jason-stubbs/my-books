@@ -1,13 +1,15 @@
+**Recommended:**
 ```
-Rework **
+Rework
 Jason Fried, David Hansson
 ```
 
 ```
-Rapid Development **
+Rapid Development
 Steve McConnell
 ```
 
+Others:
 ```
 The Mythical Man Month
 Frederick Brooks
