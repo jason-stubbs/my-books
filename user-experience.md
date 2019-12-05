@@ -1,8 +1,10 @@
+**Recommended:**
 ```
-Inclusive Design Patterns **
+Inclusive Design Patterns
 Heydon Pickering
 ```
 
+Others:
 ```
 The Principles Of Beautiful Web Design
 Jason Beaird, James George
