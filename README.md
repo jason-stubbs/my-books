@@ -36,7 +36,7 @@ I've also included the books I would highly recommend for each section on this p
     [(link)](https://www.goodreads.com/book/show/179133.Domain_Driven_Design)
   * ```Patterns, Principles, and Practices of Domain-Driven Design``` by Scott Millett and Nick Tune
     [(link)](https://www.goodreads.com/book/show/25531393-patterns-principles-and-practices-of-domain-driven-design)
-* [Object Orientation](object-orientation.md)
+* [Object Orientation](object-orientation.md) (3)
 
 #### Languages
 
