@@ -8,7 +8,7 @@ I've also included the books I would highly recommend for each section on this p
 
 #### Development
 
-* [Programming](programming.md) (7)
+* [Programming](programming.md) (8)
   * ```The Art of Readable Code``` by Dustin Boswell and Trevor Foucher
     [(link)](https://www.goodreads.com/book/show/8677004-the-art-of-readable-code)
   * ```Clean Code``` by Robert Martin
